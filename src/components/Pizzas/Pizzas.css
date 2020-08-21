@@ -1,0 +1,25 @@
+img {
+    max-width: 450px;
+    max-height: 350px;
+    margin: 0.1em;
+}
+
+.pizza {
+    position: relative; 
+    width: 500px;
+    height: 510px;
+    border-radius: 20px;
+    border-style: solid;
+    float: left;
+    margin: .25em;
+    background-color: tomato;
+    text-align: center;
+}
+
+.selected {
+    background-color: green;
+}
+
+.inCart {
+    background-color: lightblue;
+}
